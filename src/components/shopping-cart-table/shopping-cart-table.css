@@ -1,0 +1,24 @@
+.shopping-cart-table table {
+    display: table;
+    width: 100%;
+}
+
+.shopping-cart-table table thead {
+    font-weight: bold;
+    background-color: #e5e5e5;
+}
+.shopping-cart-table table thead tr td {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.shopping-cart-table .total {
+    text-align: right;
+    font-size: 1.3rem;
+    margin-right: 10px;
+}
+
+.shopping-cart-table button {
+    margin-left: 5px;
+    margin-top: 5px;
+}
